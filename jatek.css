@@ -1,0 +1,25 @@
+body{
+    font-family: sans-serif;
+	background-image: url('eldenring.jpg');
+	color: gold;
+	
+}
+p{
+	font-family: 'Bronova', sans-serif;
+	
+}
+h1{
+	color: gold;
+	font-variant: small-caps;
+	text-shadow: 1px 1px white;
+	font-family: 'Bronova', sans-serif;
+}
+a{
+  text-decoration: none;
+}
+#w{
+	width: 10px;
+}
+#v{
+	float: right;
+}
