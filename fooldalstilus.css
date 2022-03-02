@@ -4,4 +4,41 @@ body{
 
 .bevezeto{
     font-style: italic;
+    color:black;
+    
 }
+
+#bevezeto{
+    background-color: grey;
+}
+
+h1{
+    color:black;
+    background-color: grey;
+}
+
+p{
+    font-size:30px;
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: 200px;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+    font-size:20px;
+  }
