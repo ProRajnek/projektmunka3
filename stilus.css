@@ -1,8 +1,42 @@
 h1 {
 		font-size: 200%;
 		text-align:center;
+		text-decoration:underline;
 }
 body {	
 		
-		background-color:#F5FFFA;
-		}
+		background-color:#F0F8FF;
+	}
+.jatek {
+		float:left;
+		
+}
+h2 {
+		font-weight:bold;
+		text-decoration:underline;
+	}
+
+
+.letoltes{
+	
+	float:right;
+	
+}
+.kep1{
+	width:100px;
+	float:right;
+	
+}
+.lol{
+		float:left;
+}
+
+.oldal{ 
+			text-align:center;
+			text-decoration:underline;
+			
+}
+
+h4{
+	text-decoration:underline;
+		
