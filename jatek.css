@@ -23,3 +23,11 @@ a{
 #v{
 	float: right;
 }
+.home-gomb{
+	width: 5px;
+	float: top;
+	float: right;
+	position: absolute;
+	top: 500px
+	right:50px
+}
