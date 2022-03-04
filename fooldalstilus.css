@@ -46,6 +46,9 @@ div.gallery {
 
   .elden{
     background-color: #777;
+    position: absolute;
+    left:280px;
+    top: 230px ;
   }
 
   #elden{
@@ -55,8 +58,14 @@ div.gallery {
 
   .cod{
     background-color: #777;
+   
   }
-
+.lol{
+  background-color: #777;
+  position: absolute;
+  left:600px;
+  top:230px 
+}
 .game{
   float:right;
   position:absolute;
@@ -65,4 +74,40 @@ div.gallery {
   background-color: #777;
 }
 
+.cod{
+  background-color: #777;
   
+}
+
+div.eld {
+  margin: 5px;
+ 
+  float: left;
+  width: 180px;
+  
+  
+}
+
+div.eld:hover {
+  border: 1px solid #777;
+}
+
+div.eld img {
+  width: 100%;
+  height: 200px;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+  font-size:20px;
+}
+
+.kesz{
+  float:bottom;
+
+}
+
+#kesz{
+  font-size: 14px;;
+}
