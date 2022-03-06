@@ -109,5 +109,8 @@ div.desc {
 }
 
 #kesz{
+  color:orange;
   font-size: 14px;;
+  position:absolute;
+  bottom:100px;
 }
